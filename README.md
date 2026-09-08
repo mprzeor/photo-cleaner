@@ -1,4 +1,4 @@
-# PhotoCleaner — duplicate photo finder for Android
+# PhotoCleaner - duplicate photo finder for Android
 
 Finds photos of the same scene taken several times (bursts, retakes, re‑saves) inside a folder you pick,
 groups them, and lets you delete everything but the best shot.
